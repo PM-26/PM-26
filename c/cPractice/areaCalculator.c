@@ -16,4 +16,3 @@ int main()
 
     return 0;
 }
-/workspaces/PM-26/c/cPractice/areaCalculator.c
