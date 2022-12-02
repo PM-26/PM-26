@@ -13,9 +13,8 @@ body{
   .white{
     color: white;
   }
-  .border{
-    border: 1px solid white;
-  }
+  
+  
   .right{
     float: right;
   }
@@ -27,6 +26,7 @@ body{
   display: inline;
   padding: 28vh;
 }
+
 .snowball{
   border: 1vh solid white;
 }
