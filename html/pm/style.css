@@ -19,4 +19,14 @@ body{
   .right{
     float: right;
   }
- 
+ nav{
+  color: white;
+  
+ }
+ nav ul li{
+  display: inline;
+  padding: 28vh;
+}
+.snowball{
+  border: 1vh solid white;
+}
