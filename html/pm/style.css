@@ -30,3 +30,11 @@ body{
 .snowball{
   border: 1vh solid white;
 }
+header{
+  position: sticky;
+  top: 0;
+  background-color: blanchedalmond;
+}
+ul{
+  padding:4vh;
+}
