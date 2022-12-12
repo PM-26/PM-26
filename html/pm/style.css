@@ -21,13 +21,11 @@ body{
  nav{
   color: white;
   height: 7vh;
-  
- }
+}
  nav ul{
   display: flex;
   
   list-style: none;
-  
 }
 
 .snowball{
