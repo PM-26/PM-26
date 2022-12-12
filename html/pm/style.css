@@ -20,11 +20,14 @@ body{
   }
  nav{
   color: white;
+  height: 7vh;
   
  }
- nav ul li{
-  display: inline;
-  padding: 26vh;
+ nav ul{
+  display: flex;
+  
+  list-style: none;
+  
 }
 
 .snowball{
@@ -32,9 +35,12 @@ body{
 }
 header{
   position: sticky;
-  top: 0;
+  top: 1vh;
   background-color: blanchedalmond;
 }
-ul{
+/* ul{
   padding:4vh;
+} */
+nav ul li{
+  padding: 1vh 13vw;
 }
