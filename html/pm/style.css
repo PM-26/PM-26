@@ -1,44 +1,92 @@
-body{
-    background-color: #000000;
-  }
-  .red{
-    color: red;
-  }
-  .orange{
-    color: orange;
-  }
-  .green{
-    color: green;
-  }
-  .white{
-    color: white;
-  }
-  
-  
-  .right{
-    float: right;
-  }
- nav{
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: hsl(0, 0%, 0%);
+  overflow-x: hidden;
+}
+
+
+.red {
+  color: red;
+}
+
+.orange {
+  color: orange;
+}
+
+.green {
+  color: green;
+}
+
+.white {
+  color: white;
+}
+
+
+.right {
+  float: right;
+}
+
+nav {
   color: white;
   height: 7vh;
 }
- nav ul{
+
+nav ul {
   display: flex;
-  
+
   list-style: none;
+
 }
 
-.snowball{
+.snowball {
   border: 1vh solid white;
 }
-header{
+
+header {
   position: sticky;
   top: 1vh;
   background-color: blanchedalmond;
 }
-/* ul{
-  padding:4vh;
-} */
-nav ul li{
+
+nav ul li {
   padding: 1vh 13vw;
+  font-size: 23px;
+  color: black;
+}
+
+.none {
+  text-decoration: none;
+}
+
+@keyframes animate {
+  0% {
+    transform: translateX(-10);
+  }
+
+  100% {
+    transform: translate(10vw);
+  }
+}
+
+.animate1 {
+  animation-name: animate;
+  animation-duration: 2s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+}
+
+.animate2 {
+  animation-name: animate;
+  animation-duration: 2s;
+  animation-direction: alternate-reverse;
+  animation-iteration-count: infinite;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
 }
