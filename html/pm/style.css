@@ -33,13 +33,13 @@ body {
 nav {
   color: white;
   height: 7vh;
+  padding: 3vh 0vw;
+  display:flex;
 }
 
 nav ul {
   display: flex;
-
   list-style: none;
-
 }
 
 .snowball {
@@ -50,11 +50,12 @@ header {
   position: sticky;
   top: 1vh;
   background-color: blanchedalmond;
+  height: 80px;
 }
 
 nav ul li {
-  padding: 1vh 13vw;
-  font-size: 23px;
+  padding: 1vh 5vw;
+  font-size: 15px;
   color: black;
 }
 
@@ -89,4 +90,52 @@ nav ul li {
 .center {
   margin: auto;
   width: 50%;
+}
+.flexAllCenter{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asset&display=swap');
+
+
+
+main{
+  font-family: 'Rubik Gemstones', cursive;
+}
+footer{
+  font-family: 'Rubik Gemstones', cursive;
+  height: 4vh;
+}
+header{
+  font-family: 'Asset', cursive;
+
+
+}
+
+/* .scroll{
+  min-height: calc(100vh - 70px - 4vh);
+} */
+
+nav ul a li:hover{
+  color: blue;
+  font-weight: bolder;
+}
+
+.search{
+  display:flex;
+  height: 30px; 
+  margin: 0 40vw
+}
+
+.search input{
+  border-radius: 12px;
+  margin: 0vh 0vw;
+  padding: 1vw;
+}
+
+.image{
+  padding: 2vh 2vw;
+  }
 }
