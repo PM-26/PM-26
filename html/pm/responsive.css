@@ -1,0 +1,12 @@
+@media screen and (max-width: 1200px) {
+    body {
+        background-color: red;
+    }
+
+    .search {
+        display: flex;
+        height: 30px;
+        /* width: fit-content;  */
+        margin: 0 1vw
+    }
+}
