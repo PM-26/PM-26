@@ -1,8 +1,4 @@
 @media screen and (max-width: 1200px) {
-    body {
-        background-color: red;
-    }
-
     .search {
         display: flex;
         height: 30px;
