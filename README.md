@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PM-26
-- 👀 I’m interested in Web Dev💕.
+- 👀 I’m interested in ? Lol why you taking interest? 💕.
 - 🌱 I’m currently learning 🙌😂
 - 💞️ I’m looking to collaborate on nothing😂🤣
 - 📫 How to reach me? You can't.🤣
