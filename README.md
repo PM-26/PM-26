@@ -7,12 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pm-26&label=Profile%20views&color=0e75b6&style=flat" alt="pm-26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pm-26" alt="pm-26" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<!-- add Right Gif Image -->
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media.tenor.com/TZ3geP5ahncAAAAC/snowball-look-snowball.gif)")
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <!---
 PM-26/PM-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
